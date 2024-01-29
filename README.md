@@ -82,50 +82,6 @@ Built with :
 
 [Check it Out!](https://tarello-project.onrender.com/)
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/AmirGreenberg/tarello_front_amir_greenberg.git
-```
-
-```bash
-git clone https://github.com/AmirGreenberg/tarello_back_amir_greenberg.git
-```
-
-2. Install dependencies:
-
-```bash
-cd tarello_front_amir_greenberg
-npm install
-```
-
-```bash
-cd tarello_back_amir_greenberg
-npm install
-```
-
-3. Start the application:
-
-```bash
-cd tarello_front_amir_greenberg
-npm run dev
-```
-
-```bash
-cd tarello_back_amir_greenberg
-npm start
-```
-
-## Usage
-
-1. Visit `http://localhost:5173` in your web browser.
-2. Sign up or log in to your account. (Not mandatory)
-3. Create a new project or choose a pre-made template to get started.
-4. Customize the project adding groups and tasks to the board, use different functionalities to manage your projects.
-5. Collaborate with team members in real-time, analyze data in the dashboard.
-
 ## Technologies
 
 - React
