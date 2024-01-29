@@ -4,7 +4,7 @@
 
 🌴 Full-stack developer
 
-🏆 I recently built a clone of Trello, [check it out, it has everything! Tarello](https://tarello-project.onrender.com/))
+🏆 I recently built a clone of Trello, [check it out, it has everything! Tarello](https://tarello-project.onrender.com/)
 
 📫 You can reach me at amirgggg@gmail.com
 
