@@ -37,7 +37,10 @@
             [<img title="Pinia" alt="Pinia"  width="40px" height="40px"
       src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1681160325/logo_gpzyuz.svg" />](https://pinia.vuejs.org/)
 
-      # Tarello - A "Trello" Clone
+
+## Latest full-stack project - 
+# Tarello - A "Trello" Clone
+
 A full-stack web application that replicates the core functionalities of Trello app, developed by Amir Greenberg, David Tal-Rivlin and Michael Lulev.
 
 https://github.com/AmirGreenberg/tarello_front_amir_greenberg/assets/132469813/ad886ad4-cac9-4409-acdb-9d745e984ee0
