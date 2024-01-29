@@ -37,10 +37,12 @@
             [<img title="Pinia" alt="Pinia"  width="40px" height="40px"
       src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1681160325/logo_gpzyuz.svg" />](https://pinia.vuejs.org/)
 
-<br/>
-<br/>
-<br/>
-<br/>
+
+
+
+
+
+
 ## Latest full-stack project - 
 # Tarello - A "Trello" Clone
 
