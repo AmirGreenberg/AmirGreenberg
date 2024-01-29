@@ -2,11 +2,11 @@
 
 
 
-• 🌴 Full-stack developer
+🌴 Full-stack developer
 
-• 🏆 I recently built a clone of Trello, check it out, it has everything! [Tarello](https://tarello-project.onrender.com/))
+🏆 I recently built a clone of Trello, check it out, it has everything! [Tarello](https://tarello-project.onrender.com/))
 
-• 📫 You can reach me at amirgggg@gmail.com
+📫 You can reach me at amirgggg@gmail.com
 
 
 ## Connect with me:
