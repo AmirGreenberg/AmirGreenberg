@@ -6,8 +6,16 @@
 
 🏆 I recently built a clone of Trello, [check it out](https://tarello-project.onrender.com/)
 
-📫 You can reach me at amirgggg@gmail.com
-
+<h3>📫 Connect with Me:</h3>
+<table>
+  <tr>
+    <td><a href="mailto:amirgggg@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align: middle;" /></a></td>
+    <td><a href="mailto:amirgggg@gmail.com" style="vertical-align: middle; text-decoration: none; color: black;">amirgggg@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/amir-greenberg/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;" /></a></td>
+    <td><a href="https://www.linkedin.com/in/amir-greenberg/" style="vertical-align: middle; text-decoration: none; color: black;">LinkedIn Profile</a></td>
+  </tr>
 
 ## Connect with me:
 [<img title="Linkdin" width="40px" height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/amir-greenberg/) 
