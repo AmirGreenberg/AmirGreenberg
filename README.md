@@ -18,11 +18,6 @@
   </tr>
   <table/>
 
-
-## Connect with me:
-[<img title="Linkdin" width="40px" height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/amir-greenberg/) 
-
-
 ## Languages and Tools:
 [<img title="TYPESCRIPT" alt="TYPESCRIPT"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
 [<img title="JS" alt="JS"  width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.w3schools.com/js/)
