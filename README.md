@@ -16,6 +16,8 @@
     <td><a href="https://www.linkedin.com/in/amir-greenberg/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;" /></a></td>
     <td><a href="https://www.linkedin.com/in/amir-greenberg/" style="vertical-align: middle; text-decoration: none; color: black;">LinkedIn Profile</a></td>
   </tr>
+  <table/>
+
 
 ## Connect with me:
 [<img title="Linkdin" width="40px" height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/amir-greenberg/) 
