@@ -4,7 +4,7 @@
 
 🌴 Full-stack developer
 
-🏆 I recently built a clone of Trello, [check it out](https://tarello-project.onrender.com/)
+🏆 For fun, I built a clone of Trello, [check it out](https://tarello-project.onrender.com/)
 
 <h3>📫 Connect with Me:</h3>
 <table>
@@ -48,10 +48,9 @@
 
 
 
-## Latest full-stack project - 
 # Tarello - A "Trello" Clone
 
-A full-stack web application that replicates the core functionalities of Trello app, developed by Amir Greenberg, David Tal-Rivlin and Michael Lulev.
+A full-stack web application that replicates the core functionalities of Trello app, developed by Amir Greenberg.
 
 https://github.com/AmirGreenberg/tarello_front_amir_greenberg/assets/132469813/ad886ad4-cac9-4409-acdb-9d745e984ee0
 
@@ -99,8 +98,6 @@ Built with :
 
 ## Contributors
 - [Amir Greenberg](https://github.com/AmirGreenberg)
-- [David Tal Rivlin](https://github.com/DavidTalRivlin)
-- [Michael Lulev](https://github.com/MichaelLulev)
 
 ## License
 
